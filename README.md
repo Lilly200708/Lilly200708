@@ -2,6 +2,12 @@
 ## Welcome to my github home！ 👋
 - 🔭 I’m currently studying at UNMC
 - 🌱 I’m currently learning Math&DS
+##
+  <img width="40" height="40" alt="anaconda" src="https://github.com/user-attachments/assets/f0be7055-a8d4-4604-b136-01294c8f4f27" />
+  <img width="40" height="40" alt="r" src="https://github.com/user-attachments/assets/3121e928-1329-41e8-bcf2-646419075899" />
+  <img width="40" height="40" alt="c" src="https://github.com/user-attachments/assets/f33029d5-9bc3-4852-a533-825d2237039e" />
+  <img width="40" height="40" alt="python" src="https://github.com/user-attachments/assets/05715e16-882e-4e39-9f54-ea4582fa5d28" />
+
 
 <!--
 **Lilly200708/Lilly200708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
